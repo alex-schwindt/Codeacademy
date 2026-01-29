@@ -12,7 +12,7 @@ switch(randomNumber){
   eightBall = 'It is decidedly so';
   break;
   case 2:
-  eightBall = 'Reply hazy try again'
+  eightBall = 'Reply hazy try again';
   break;
   case 3:
   eightBall = 'Cannot predict now';
